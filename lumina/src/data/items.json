@@ -1,0 +1,8 @@
+{
+  "slime_jelly": { "name": "Jeli Slime", "description": "Bahan dasar ramuan dan masakan ringan.", "type": "ingredient" },
+  "bone_fragment": { "name": "Pecahan Tulang", "description": "Bahan kerajinan sederhana dari skeleton.", "type": "ingredient" },
+  "raw_meat": { "name": "Daging Mentah", "description": "Daging serigala hutan, bisa dimasak jadi steak.", "type": "ingredient" },
+  "herb": { "name": "Herb Liar", "description": "Dipetik dari semak hutan, bahan masakan dan ramuan.", "type": "ingredient" },
+  "sup_jeli": { "name": "Sup Jeli Slime", "description": "Hangat dan mengenyangkan. Memulihkan HP.", "type": "dish" },
+  "steak_serigala": { "name": "Steak Daging Serigala", "description": "Berenergi tinggi, menaikkan serangan sementara.", "type": "dish" }
+}

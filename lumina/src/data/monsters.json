@@ -1,0 +1,26 @@
+{
+  "slime": {
+    "name": "Slime",
+    "hp": 8,
+    "attack": 2,
+    "sprite": "slime",
+    "loot": [{ "item": "slime_jelly", "chance": 0.8 }],
+    "goldDrop": [1, 3]
+  },
+  "skeleton": {
+    "name": "Skeleton",
+    "hp": 16,
+    "attack": 4,
+    "sprite": "skeleton",
+    "loot": [{ "item": "bone_fragment", "chance": 0.6 }],
+    "goldDrop": [3, 7]
+  },
+  "wolf": {
+    "name": "Wolf",
+    "hp": 12,
+    "attack": 3,
+    "sprite": "skeleton",
+    "loot": [{ "item": "raw_meat", "chance": 0.7 }],
+    "goldDrop": [2, 5]
+  }
+}

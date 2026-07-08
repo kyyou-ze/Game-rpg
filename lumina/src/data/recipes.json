@@ -1,0 +1,14 @@
+{
+  "sup_jeli": {
+    "name": "Sup Jeli Slime",
+    "ingredients": { "slime_jelly": 2 },
+    "result": "sup_jeli",
+    "effect": { "type": "heal", "amount": 8 }
+  },
+  "steak_serigala": {
+    "name": "Steak Daging Serigala",
+    "ingredients": { "raw_meat": 1, "herb": 1 },
+    "result": "steak_serigala",
+    "effect": { "type": "attack_buff", "amount": 2, "uses": 3 }
+  }
+}

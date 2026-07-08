@@ -1,0 +1,29 @@
+{
+  "usir_slime": {
+    "title": "Usir Slime dari Ladang",
+    "giver": "Petani Doni",
+    "description": "Slime mulai merusak tanaman di ladang. Kalahkan 3 slime untuk mengusir mereka.",
+    "type": "hunt",
+    "target": "slime",
+    "count": 3,
+    "reward": { "gold": 15, "exp": 10 }
+  },
+  "buru_kerangka": {
+    "title": "Bersihkan Reruntuhan",
+    "giver": "Kepala Guild",
+    "description": "Beberapa skeleton bangkit dari reruntuhan tua di hutan. Kalahkan 2 untuk membersihkannya.",
+    "type": "hunt",
+    "target": "skeleton",
+    "count": 2,
+    "reward": { "gold": 25, "exp": 20 }
+  },
+  "kumpulkan_jeli": {
+    "title": "Kumpulkan Jeli Slime",
+    "giver": "Peracik Ramuan",
+    "description": "Jeli slime dipakai untuk ramuan. Kumpulkan 5 jeli slime dari hasil buruan.",
+    "type": "collect",
+    "target": "slime_jelly",
+    "count": 5,
+    "reward": { "gold": 20, "exp": 15 }
+  }
+}
